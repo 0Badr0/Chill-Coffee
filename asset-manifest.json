@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chill-Coffee/static/css/main.f0ff03eb.css",
+    "main.js": "/Chill-Coffee/static/js/main.f27c9769.js",
+    "index.html": "/Chill-Coffee/index.html",
+    "main.f0ff03eb.css.map": "/Chill-Coffee/static/css/main.f0ff03eb.css.map",
+    "main.f27c9769.js.map": "/Chill-Coffee/static/js/main.f27c9769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ff03eb.css",
+    "static/js/main.f27c9769.js"
+  ]
+}
