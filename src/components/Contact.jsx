@@ -15,7 +15,7 @@ export default function Contact() {
           </div>
           <div className="contact-item instagram-link">
             <img
-              src="/images/social.png"
+              src={`${process.env.PUBLIC_URL}/images/social.png`}
               alt="Instagram"
               className="instagram-icon"
             />
@@ -33,7 +33,7 @@ export default function Contact() {
         <div className="product-link-container">
           <div className="contact-item product-item">
             <img
-              src="/images/origCC.png"
+              src={`${process.env.PUBLIC_URL}/images/origCC.png`}
               alt="Наша продукция"
               className="Site-icon"
             />

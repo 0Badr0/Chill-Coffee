@@ -3,7 +3,7 @@ export default function ProductCard({ product }) {
     <div className="product-card">
       <div className="product-image-wrapper">
         <img
-          src={`/images/${product.image}`}
+          src={`${process.env.PUBLIC_URL}/images/${product.image}`}
           alt={product.flavor}
           className="product-image"
         />

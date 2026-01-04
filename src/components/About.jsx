@@ -161,17 +161,17 @@ export default function About() {
 
         <div className="about-images">
           <img
-            src="/images/image-_2_.jpeg"
+            src={`${process.env.PUBLIC_URL}/images/image-_2_.jpeg`}
             alt="Chill Coffee промо материалы 1"
             className="about-image"
           />
           <img
-            src="/images/image (1).jpg"
+            src={`${process.env.PUBLIC_URL}/images/image (1).jpg`}
             alt="Chill Coffee промо материалы 2"
             className="about-image"
           />
           <img
-            src="/images/image.jpeg"
+            src={`${process.env.PUBLIC_URL}//images/image.jpeg`}
             alt="Chill Coffee промо материалы 3"
             className="about-image"
           />

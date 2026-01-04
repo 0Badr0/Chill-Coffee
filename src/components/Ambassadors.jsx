@@ -9,7 +9,7 @@ export default function Ambassadors() {
       id: "gg",
       name: "Гасанов Гамзат",
       subtitle: "Chill Guy",
-      image: "/images/GG.png",
+      image: "images/GG.png",
       quote: "Создал тот самый напиток из-за которого вы сейчас тут оказались",
     },
     {
@@ -17,7 +17,7 @@ export default function Ambassadors() {
       name: "Мурад Мачаев",
       subtitle:
         "Профессиональный боец ММА, тренер в школе единоборств Нурмагомедова А.М.",
-      image: "/images/MM.png",
+      image: "images/MM.png",
       quote:
         "Мои тренировки это всегда работа на пределе. Chill Coffee - это честная энергия без сахара и химии, которая помогает мне выложиться на 100% и восстановиться после",
     },
@@ -25,7 +25,7 @@ export default function Ambassadors() {
       id: "ngg",
       name: "Наби «Ганнибал» Гаджиев",
       subtitle: "Чемпион Top Dog на голых кулаках",
-      image: "/images/NGG.png",
+      image: "images/NGG.png",
       quote:
         "В ринге побеждает не самый сильный, а самый хладнокровный. Chill Coffee - это мой способ сохранить ясность ума и действовать на инстинктах, без лишних эмоций",
     },
@@ -33,7 +33,7 @@ export default function Ambassadors() {
       id: "km",
       name: "Карим Магомедэминов",
       subtitle: "Боец на голых кулаках, боец ММА",
-      image: "/images/KM.png",
+      image: "images/KM.png",
       quote:
         "Я выбираю то что отражает мой стиль - в одежде, в музыке, в напитках. Chill Coffee - это не просто вкусный холодный кофе. Это часть моего ежедневного ритуала и движения",
     },

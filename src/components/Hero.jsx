@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="hero">
       <img
-        src="/images/beach-sand-surface-with-ice-cubes - water-droplets-.jpg"
+        src={`${process.env.PUBLIC_URL}/images/beach-sand-surface-with-ice-cubes - water-droplets-.jpg`}
         alt="Chill Coffee на пляже"
         className="hero-bg"
       />

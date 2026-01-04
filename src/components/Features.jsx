@@ -3,7 +3,7 @@ export default function Features() {
     <section id="features" className="features">
       <div className="features-content">
         <img
-          src="/images/create-a-fresh - refreshing-commercial-product-card.jpg"
+          src={`${process.env.PUBLIC_URL}/images/create-a-fresh - refreshing-commercial-product-card.jpg`}
           alt="Chill Coffee обзор"
           className="features-image"
         />
